@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **Megaclite.lol**
+
+    🌱 I’m currently learning Java and Python
+
+    💬 Ask me about Python
+
+
+Languages and Tools:
+
+java python 
